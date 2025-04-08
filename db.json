@@ -1,0 +1,28 @@
+{
+  "cats": [
+    {
+      "id": "1",
+      "breed": "Siamese",
+      "image": "https://cdn.pixabay.com/photo/2017/02/15/12/12/cat-2068462_1280.jpg",
+      "about": "Easily recognizable by their striking pointed coat pattern (darker color on the ears, face, paws, and tail) and bright blue almond-shaped eyes, Siamese cats are intelligent, social, and vocal. They are known for their affectionate nature and often form strong bonds with their human families. They are also quite curious and enjoy being involved in household activities."
+    },
+    {
+      "id": "2",
+      "breed": "Persian",
+      "image": "https://media.istockphoto.com/id/467325740/photo/cute-persian-seal-colourpoint-kitten-is-sitting-frontal.jpg?s=612x612&w=0&k=20&c=PKFwQgUTqlw7zdLQnsjA4Xv6q2HmLuw8y_H69F2YUXQ=",
+      "about": "Known for their long, flowing coats and sweet, gentle personalities, Persians are a glamorous breed that enjoys a calm and predictable environment. Their luxurious fur requires daily grooming to prevent mats and tangles. They tend to be quiet cats who enjoy lounging and being pampered."
+    },
+    {
+      "id": "3",
+      "breed": "Maine Coone",
+      "image": "https://media.istockphoto.com/id/1031592516/photo/maine-coon-cat-on-white-background.jpg?s=612x612&w=0&k=20&c=EZUIWLeUD31TKbgeVwcxh_z4q0ADXjvssqQA4zCoEx4=",
+      "about": "Often referred to as 'gentle giants', Maine Coons are one of the largest domestic cat breeds. They are characterized by their shaggy, water-resistant fur, bushy tails, and tufted ears and paws. Despite their size, they are known for their friendly, good-natured, and playful personalities, often getting along well with children and dogs."
+    },
+    {
+      "id": "5206",
+      "breed": "Abyssinian",
+      "image": "https://petinsurance.com.au/wp-content/uploads/2016/07/Abyssinian_961x558-1.jpg",
+      "about": "The Abyssinian is an active and intelligent cat known for its ticked coat, large ears, and curious nature. These affectionate felines enjoy interacting with their humans and exploring their surroundings."
+    }
+  ]
+}
