@@ -12,6 +12,7 @@ function CatList() {
         fetch('http://localhost:3000/cats')
             .then(resp => resp.json())
             .then(data => setAllCats(data))
+            .then(console.log('fetch'))
     }, [])
 
     return (
