@@ -3,17 +3,11 @@ import Navbar from "../components/Navbar"
 import CatCard from "../components/CatCard"
 import Footer from "../components/Footer"
 import Form from "../components/Form"
+import { useOutletContext } from "react-router-dom"
 
 function CatList() {
 
-    const [allCats, setAllCats] = useState([])
-
-    useEffect(() => {
-        fetch('http://localhost:3000/cats')
-            .then(resp => resp.json())
-            .then(data => setAllCats(data))
-            .then(console.log('fetch'))
-    }, [])
+    const {allCats, setAllCats} = useOutletContext()
 
     return (
         <div className="main">
